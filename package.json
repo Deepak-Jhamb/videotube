@@ -1,0 +1,12 @@
+{
+  "name": "cnc",
+  "version": "1.0.0",
+  "description": "videotube a website like social media",
+  "license": "ISC",
+  "author": "Deepak Jhamb",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
